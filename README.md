@@ -22,8 +22,6 @@ In the fast-evolving landscape of cybersecurity, staying updated is key. Use thi
 
 **Join the Cyber Legion. Contribute. Innovate. Secure.** 🛡️💻
 
----
-
 ## About Cyber Legion
 
 For more comprehensive insights and services in the field of cybersecurity, visit [Cyber Legion](https://cyberlegion.io).
@@ -31,3 +29,5 @@ For more comprehensive insights and services in the field of cybersecurity, visi
 ## Disclaimer
 
 Legionnaires are AI tools designed to assist in the realm of cybersecurity. It does not replace the need for professional consultation or services. Users are advised to use this information responsibly and in compliance with all applicable laws and regulations.
+
+---

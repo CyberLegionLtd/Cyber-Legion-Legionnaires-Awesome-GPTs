@@ -24,6 +24,10 @@ In the fast-evolving landscape of cybersecurity, staying updated is key. Use thi
 
 ---
 
-# List of Cyber Legion GPTs
+## About Cyber Legion
 
-This is a list of all the GPT agents developed or curated by Cyber Legion. Click on each to learn more about them and access their resources.
+For more comprehensive insights and services in the field of cybersecurity, visit [Cyber Legion](https://cyberlegion.io).
+
+## Disclaimer
+
+Legionnaires are AI tools designed to assist in the realm of cybersecurity. It does not replace the need for professional consultation or services. Users are advised to use this information responsibly and in compliance with all applicable laws and regulations.

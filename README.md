@@ -1,6 +1,6 @@
 # Cyber Legion Legionnaires (Awesome GPTs)
 
-## Welcome to the Cyber Legion Awesome GPTs (Legionnaires) Repo
+## Welcome to the Cyber Legion GPTs Repo
 Your go-to source for exploring the forefront of AI in cybersecurity! This repository is a dedicated space for those interested in cyber risk identification, mitigation, and compliance, featuring a comprehensive collection of GPT agents specialized in both offensive and defensive aspects of cybersecurity.
 
 ### What's Inside?

@@ -22,7 +22,7 @@ In the fast-evolving landscape of cybersecurity, staying updated is key. Use thi
 
 **Join the Cyber Legion. Contribute. Innovate. Secure.** 🛡️💻Follow us
 
-]Linkedin](https://www.linkedin.com/company/cyberlegion) [Github](https://github.com/CyberLegionLtd)
+[Linkedin](https://www.linkedin.com/company/cyberlegion) [Github](https://github.com/CyberLegionLtd)
 
 
 ## About Cyber Legion
